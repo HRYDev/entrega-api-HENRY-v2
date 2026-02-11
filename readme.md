@@ -1,2 +1,2 @@
-# Nome do Projeto - API Delivery
+# Restaurante - API Delivery
 Projeto realizado pelo curso do qualifica SP, arquitetura de sistemas API
